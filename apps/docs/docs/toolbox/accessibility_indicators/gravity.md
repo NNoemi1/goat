@@ -375,11 +375,11 @@ import ImpedanceFunction from '@site/src/components/ImpedanceFunction';
    </div> 
 </div>
 
-Similarly, the *destination potential* can be changed. Thus, for example, one POI type (e.g. hypermarkets) can be assigned a higher accessibility effect than other POI types (e.g. discount supermarkets). The following images show the influence of the *destination potential* parameter on accessibility:
+Similarly, the *destination potential* can be changed. Thus, for example, one POI type (e.g. hypermarkets) can be assigned a higher accessibility effect than other POI types (e.g. discount supermarkets). In the [Opportunities](#opportunities) section, at **step 7**,  we cover the *destination potential* in detail.
 
-:::info 
+:::tip
 
-For a calculation example watch our tutorial video.
+For a calculation example see our tutorial video.
 
 :::
 
