@@ -13,7 +13,7 @@ Widgets are the **building blocks** of the dashboard. They allow you to display 
 
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
 
-*Variety of widgets available in the Builder mode.*
+*Variety of widgets available in the Builder mode*
 
 </div>
 

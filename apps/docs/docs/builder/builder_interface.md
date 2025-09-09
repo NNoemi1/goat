@@ -8,13 +8,13 @@ sidebar_position: 1
 Switching to Builder mode from Data mode will leady you to a map interface, where you can **create dashboards by adding widgets on panels, applying filters, and costumizing the layout.**
 
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-  <img src={require('/img/builder/builder_switch.gif').default} alt="Dragging a widget to the panel" style={{ maxHeight: "auto", maxWidth: "auto", objectFit: "cover"}}/>
+  <img src={require('/img/builder/builder_switch.gif').default} alt="switching_to_builder_mode" style={{ maxHeight: "auto", maxWidth: "auto", objectFit: "cover"}}/>
 </div> 
 
 ## Interface Elements
 
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-  <img src={require('/img/builder/builder_interface.png').default} alt="Dragging a widget to the panel" style={{ maxHeight: "auto", maxWidth: "auto", objectFit: "cover"}}/>
+  <img src={require('/img/builder/builder_interface.png').default} alt="overview_of_the_builder_interface" style={{ maxHeight: "auto", maxWidth: "auto", objectFit: "cover"}}/>
 </div> 
 
 ### Panels
