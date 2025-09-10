@@ -269,6 +269,12 @@ This section of widgets offer extra elements to make your dashboard rounded.
 
 Add text to your dashboard. You can **costumize it with the appearing buttons**.
 
+:::note
+- Style your text with different **headings, lists,** or **code blocks.**
+- Add **bold**, *italic*, <u>underline</u>, strikethrough (~~Lorem ipsum~~), subscript (X<sub>1</sub>) or superscript (X<sup>1</sup>) to your text.
+- Change the **alignment, add links,** adjust the **letter color** or **add highlight.**
+:::
+
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
   <img src={require('/img/builder/builder_text.gif').default} alt="recent datasets" style={{ maxHeight: "500px", maxWidth: "auto", objectFit: "cover"}}/>
 </div> 
@@ -292,7 +298,7 @@ Upload an image **from your computer** to your dashboard. When **padding** is en
 
 ::::tip
 
-Check out our **[Gallery](https://www.plan4better.de/en/gallery)** for further dashboard inspiration.
+Check out our **[Gallery](https://www.plan4better.de/en/gallery)** for further dashboard inspirations.
 
 ::::
 
