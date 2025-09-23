@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Builder Interface
 
-Switching to Builder mode from Data mode will leady you to a map interface, where you can **create dashboards by adding widgets on panels, applying filters, and costumizing the layout.**
+Switching to Builder mode from Data mode will lead you to a map interface, where you can **create dashboards by adding widgets on panels, applying filters, and costumizing the layout.**
 
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
   <img src={require('/img/builder/builder_switch.gif').default} alt="switching_to_builder_mode" style={{ maxHeight: "auto", maxWidth: "auto", objectFit: "cover"}}/>
