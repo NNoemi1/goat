@@ -67,11 +67,18 @@ After opening the list of markers, click on <code>Upload icon</code>. Then again
 
 </div> 
 
-At the <code>Manage icons</code> tab you can **rename** and **delete** your uploaded icons.
+At the <code>Manage icons</code> tab you can **rename** the icons, add **categories** or **delete** your uploads. Adding categories helps you to keep the icons oraganized.
+
+
+<div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+
+  <img src={require('/img/map/styling/custom_marker_category.png').default} alt="Marker" style={{ maxHeight: "700px", maxWidth: "auto", objectFit: "cover"}}/>
+
+</div> 
 
 :::info
 
-You can only edit the color of the icons added from the library.
+You can only edit the color of the icons added from the library, your uploaded icons will keep their original color.
 
 :::
 

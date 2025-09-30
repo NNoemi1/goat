@@ -66,7 +66,15 @@ Nachdem Sie die Markerliste geöffnet haben, klicken Sie auf <code>Symbol hochla
 
 </div> 
 
-Im Tab <code>Ikonen verwalten</code> können Sie Ihre hochgeladenen Symbole **umbenennen** und **löschen**.  
+At the <code>Manage icons</code> tab you can **rename** the icons, add **categories** or **delete** your uploads. Adding categories helps you to keep the icons oraganized.
+
+Im Reiter <code>Ikonen verwalten</code> können Sie die Icons **umbenennen**, **Kategorien hinzufügen** oder Ihre Uploads **löschen**. Das Hinzufügen von Kategorien hilft Ihnen, die Icons organisiert zu halten.
+
+<div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+
+  <img src={require('/img/map/styling/custom_marker_category.png').default} alt="Marker" style={{ maxHeight: "700px", maxWidth: "auto", objectFit: "cover"}}/>
+
+</div> 
 
 :::info
 
